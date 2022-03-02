@@ -11,7 +11,7 @@ let a = 5;
 // 변수 선언 시 변수의 할당값이 숫자이므로, 타입 추론에 의해 변수 a의 타입은 자동으로 숫자로 결정된다.
 // a = 'hello'; // 에러 발생
 a = 10; // 정상
-```
+``` 
 
 ------------------
 [출처](https://www.youtube.com/watch?v=rwqqhvR353A&list=PLJf6aFJoJtbUXW6T4lPUk7C66yEneX7MN&index=4)
